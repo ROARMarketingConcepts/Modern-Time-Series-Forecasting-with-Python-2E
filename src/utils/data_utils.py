@@ -1,7 +1,8 @@
 import warnings
 from collections import defaultdict
 from datetime import datetime
-import distutils
+# import distutils
+import setuptools
 import pandas as pd
 from tqdm.auto import tqdm
 import numpy as np
