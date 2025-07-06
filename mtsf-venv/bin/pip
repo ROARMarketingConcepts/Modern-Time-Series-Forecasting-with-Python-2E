@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/woodzsan/Desktop/Machine Learning and Data Analysis/Modern-Time-Series-Forecasting-with-Python-2E/mtsf-venv/bin/python3.9" "$0" "$@"
+'''exec' "/Users/woodzsan/Desktop/Machine Learning and Data Analysis/Modern-Time-Series-Forecasting-with-Python-2E/mtsf-venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
